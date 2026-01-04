@@ -1,0 +1,49 @@
+.product{
+    width: 260px;
+    margin: 50px auto;
+    background-color: #F2E6DF;
+    padding: 20px 20px;
+    border-radius: 7px;
+}
+
+.title{
+    margin-bottom: 5px;
+}
+
+.side{
+    text-align: left;
+    line-height: 1.2;
+    margin: 0;
+    text-align: left;
+}
+
+.gray{
+    color: gray;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.bold{
+    font-weight: 600;
+}
+
+button{
+    padding: 7px 15px;
+    background-color: #F2CB05;
+    border: none;
+    border-radius: 40px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+
+button:hover{
+    background-color: #A61205;
+    color: #F2E6DF;
+}
+
+#error{
+    color: red;
+   /* transition: opacity .4s;*/
+}
